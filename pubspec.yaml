@@ -12,8 +12,8 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  vm_service: ^11.10.0
-  http: ^1.1.0
+  vm_service: ^14.3.1
+  http: ^1.3.0
 
   flutter:
     sdk: flutter
